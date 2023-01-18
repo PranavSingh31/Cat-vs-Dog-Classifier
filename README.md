@@ -1,2 +1,4 @@
 # Cat-vs-Dog-Classifier
-It is a deep learning project that works on the concept of Transfer Learning. Pre-trained model used here is Mobile Net V2
+
+##  Introduction
+Dog vs Cat Classifier is one of the most famous Convolutional Neural Network (CNN) problem.
