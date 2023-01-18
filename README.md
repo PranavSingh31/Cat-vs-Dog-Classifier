@@ -22,3 +22,4 @@ Transfer learning is a machine learning method where a model developed for a tas
  + Accuracy = 97.7%
  
 ##4. Input/Output
+![image](https://user-images.githubusercontent.com/76558062/213086193-678149a5-a9e8-4c2b-83e3-9c8f8c6819cb.png)
