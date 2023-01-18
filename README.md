@@ -1,6 +1,6 @@
 # Cat-vs-Dog-Classifier
 
-##1. Introduction
+## 1. Introduction
 Dog vs Cat Classifier is one of the most well-known Convolutional Neural Network (CNN) problem . Depending on the settings, this project will classify an image as either dog or cat.
 
 ### Convolutional Neural Network
@@ -11,16 +11,16 @@ Transfer learning is a machine learning method where a model developed for a tas
 
 ![Cats-Dogs-Classification-deep-learning](https://user-images.githubusercontent.com/76558062/213082559-d9cfeb5a-f4d1-4634-aae7-6b86799bde4e.gif)
 
-##2. Methodology
+## 2. Methodology
 ![207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f](https://user-images.githubusercontent.com/76558062/213082906-1db697ff-b51a-4eb4-a2b6-24120867d475.png)
 
-##3. Description
+## 3. Description
  Dataset : Asirra (animal species image recognition for restricting access) dataset from a 2013 machine learning competition
  Link : https://www.kaggle.com/c/dogs-vs-cats
  + 25000 images (12,500 dog, 12,500 cat)
  + Best Model = CNN 
  + Accuracy = 97.7%
  
-##4. Input/Output
+## 4. Input/Output
 
 ![image](https://user-images.githubusercontent.com/76558062/213086482-8782b364-c099-4b02-af00-9bb448b56437.png)
